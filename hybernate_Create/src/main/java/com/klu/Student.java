@@ -16,7 +16,7 @@ public class Student {
 
     private String name;
 
-    private int marks;   // ✅ ADD THIS
+    private int marks;  
 
     public Student() {}
 
